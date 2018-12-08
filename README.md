@@ -26,3 +26,5 @@ If you find our work is useful in your research, please consider citing:
 ```
 
 ## Downloading Chinese Traditional Painting dataset
+
+Our dataset can be downloaded at [OneDrive]() or [BaiduYun](https://pan.baidu.com/s/14HVSqDniy_2FwTjxYbBHNA).
