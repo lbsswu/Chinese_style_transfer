@@ -6,6 +6,8 @@ Chinese Traditional Painting dataset contains 1000 content images and 100 style 
 
 The content images are mostly the photorealistic scenes of mountain, lake, river, bridge, and buildings in regions south of the Yangtze River. It includes not only the scenes of China, but also beautiful pictures of Rhine, Alps, Yellow Stone, Grand Canyon, etc. These images are only used for testing. Some typical examples are show below.
 
+<img src='contents.png' width='800'>
 
 The style images include diverse types of Chinese traditional paintings. Some typical examples are presented below.
 
+<img src='styles.png' width='800'>
